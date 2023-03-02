@@ -1,0 +1,15 @@
+C:\Users\gerso\programacion\LABORATORIO1_GersonPonce\obj\Debug\net6.0\LABORATORIO1_GersonPonce.csproj.AssemblyReference.cache
+C:\Users\gerso\programacion\LABORATORIO1_GersonPonce\obj\Debug\net6.0\LABORATORIO1_GersonPonce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerso\programacion\LABORATORIO1_GersonPonce\obj\Debug\net6.0\LABORATORIO1_GersonPonce.AssemblyInfoInputs.cache
+C:\Users\gerso\programacion\LABORATORIO1_GersonPonce\obj\Debug\net6.0\LABORATORIO1_GersonPonce.AssemblyInfo.cs
+C:\Users\gerso\programacion\LABORATORIO1_GersonPonce\obj\Debug\net6.0\LABORATORIO1_GersonPonce.csproj.CoreCompileInputs.cache
+C:\Users\gerso\programacion\LABORATORIO1_GersonPonce\bin\Debug\net6.0\LABORATORIO1_GersonPonce.exe
+C:\Users\gerso\programacion\LABORATORIO1_GersonPonce\bin\Debug\net6.0\LABORATORIO1_GersonPonce.deps.json
+C:\Users\gerso\programacion\LABORATORIO1_GersonPonce\bin\Debug\net6.0\LABORATORIO1_GersonPonce.runtimeconfig.json
+C:\Users\gerso\programacion\LABORATORIO1_GersonPonce\bin\Debug\net6.0\LABORATORIO1_GersonPonce.dll
+C:\Users\gerso\programacion\LABORATORIO1_GersonPonce\bin\Debug\net6.0\LABORATORIO1_GersonPonce.pdb
+C:\Users\gerso\programacion\LABORATORIO1_GersonPonce\obj\Debug\net6.0\LABORATORIO1_GersonPonce.dll
+C:\Users\gerso\programacion\LABORATORIO1_GersonPonce\obj\Debug\net6.0\refint\LABORATORIO1_GersonPonce.dll
+C:\Users\gerso\programacion\LABORATORIO1_GersonPonce\obj\Debug\net6.0\LABORATORIO1_GersonPonce.pdb
+C:\Users\gerso\programacion\LABORATORIO1_GersonPonce\obj\Debug\net6.0\LABORATORIO1_GersonPonce.genruntimeconfig.cache
+C:\Users\gerso\programacion\LABORATORIO1_GersonPonce\obj\Debug\net6.0\ref\LABORATORIO1_GersonPonce.dll
